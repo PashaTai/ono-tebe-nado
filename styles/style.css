@@ -26,6 +26,11 @@
 
 .circle_indent {
   text-indent: 2px;
+  list-style-type: circle;
+}
+
+.list-style-none {
+  list-style-type: none;
 }
 
 .contacts {
@@ -109,7 +114,7 @@
 }
 
 .no-letter-spacing {
-  letter-spacing: normal;
+  letter-spacing: 0;
 }
 
 .overlay {
