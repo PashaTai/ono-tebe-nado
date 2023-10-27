@@ -82,7 +82,6 @@
 
 .cover_title {
   position: relative;
-  z-index: 10;
   color: #fff;
   font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 100px;
@@ -123,7 +122,6 @@
 .cover-description {
   align-items: center;
   display: flex;
-  z-index: 2;
   justify-content: end;
   column-gap: 78px;
   margin-bottom: 50px;
