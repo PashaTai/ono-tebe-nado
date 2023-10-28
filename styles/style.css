@@ -202,6 +202,8 @@
   align-items: center;
   height: 100%;
   padding: 50px 40px;
+  background-size: cover;
+  background-position: center;
 }
 
 .card_title {
@@ -228,20 +230,15 @@
   line-height: 120%; /* 24px */
 }
 
-.card_type {
-  background-size: cover;
-  background-position: center;
-}
-
-#film {
+.card_type_film {
   background-image: url("../images/card-lot-01.jpg");
 }
 
-#book {
+.card_type_book {
   background-image: url("../images/card-lot-02.jpg");
 }
 
-#picture {
+.card_type_picture {
   background-image: url("../images/card-lot-03.jpg");
 }
 
